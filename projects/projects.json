@@ -1,0 +1,83 @@
+[
+
+  {
+    "name": "Weather App",
+    "desc": "weather app which have a smooth UI using JS, Talwind and fetching data from API. Provides Weatherforcast",
+    "image": "weather",
+    "category":"lamp",
+    "links":{
+      "code":"https://github.com/bajpaidhruv/Weather-APP",
+      "view":"https://bajpaidhruv.github.io/Weather-APP/"
+    }
+  },
+
+  {
+    "name":"Tic Tac Toe",
+    "desc":"tic tac toe game which is for fun built on the simple JS and CSS",
+    "image":"tictactoe",
+    "category":"lamp",
+    "links":{
+      "code":"https://github.com/bajpaidhruv/Tic_Tac_Toe",
+      "view":"https://bajpaidhruv.github.io/Tic_Tac_Toe/"
+    }
+  }
+  ,
+
+ 
+  {
+    "name": "Bootstrap Portfolio",
+    "desc": "Portfolio built using HTML, CSS, Bootstrap, and JavaScript. Customized Bootstrap using SCSS.",
+    "image": "basicportfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "https://bajpaidhruv.github.io/Portfolio./",
+      "code": "https://github.com/bajpaidhruv/Portfolio."
+    }
+  },
+
+  {
+    "name": "FoodieLover",
+    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
+    "image": "foodie",
+    "category": "basicweb",
+    "links": {
+      "view": "https://bajpaidhruv.github.io/project_02web/",
+      "code": "https://github.com/bajpaidhruv/project_02web"
+    }
+  },
+  
+  {
+    "name": "Text-Utils website",
+    "desc": "Basically it is a text formatting website, which is based on reactJs. It count words, time to read and many more",
+    "image": "textutils",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/jigar-sable/WebChat#webchat",
+      "code": "https://github.com/jigar-sable/WebChat"
+    }
+  },
+  {
+    "name": "Randome Joke Generator",
+    "desc": "It is a basic API based javascript porgram which generates random jokes.",
+    "image": "joke",
+    "category": "basicweb",
+    "links": {
+      "view": "https://bajpaidhruv.github.io/Random_Joke_Generator/",
+      "code": "https://github.com/bajpaidhruv/Random_Joke_Generator"
+    }
+  },
+  {
+    "name": "Basic Music application",
+    "desc": "It is a Music application which is based on javascript. It is fully responsive and have play, pause ,move left and right",
+    "image": "musicapp",
+    "category": "lamp",
+    "links": {
+      "view": "https://bajpaidhruv.github.io/Basic_Music_applicaton/",
+      "code": "https://github.com/bajpaidhruv/Basic_Music_applicaton"
+    }
+  }
+  
+  
+
+ 
+]
