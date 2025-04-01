@@ -1,4 +1,24 @@
 [
+  {
+    "name":"URL Shortner",
+    "desc":"URL Shortner is a web application that takes a long URL and converts it into a shorter, more manageable one. It is built using ReactJS, NodeJS, ExpressJS, and MongoDB.",
+    "image":"urlshort",
+    "category":"mern",
+    "links":{
+      "code":"https://github.com/bajpaidhruv/Short_url",
+      "view":"https://short-url-rzkj.onrender.com/signup"
+    }
+  },
+  {
+    "name":"RealTime Chat Application",
+    "desc":"RealTime Chat Application is a web application that allows users to chat with each other in real-time. It is built using ReactJS, NodeJS, ExpressJS, and MongoDB.",
+    "image":"chat",
+    "category":"mern",
+    "links":{
+      "code":"https://github.com/bajpaidhruv/Chat_App",
+      "view":"https://chat-app-rug1.onrender.com/login"
+    }
+  },
 
   {
     "name": "Weather App",
